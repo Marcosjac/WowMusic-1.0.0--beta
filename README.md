@@ -26,3 +26,4 @@ el cualizador no esta sincronizado con la cancion, sirve como evidencia visual a
 
 en caso de que su cancion no se reproduzca, pruebe cambiando el volumen con la barra de volumen.
 
+si el logo de la aplicacion esta aplastado, es que es asi.
