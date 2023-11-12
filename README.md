@@ -17,8 +17,12 @@ para utilizar la aplicacion debe primero undir el signo "+" que se encuentra arr
 
 # informacion adicional
 no puede añadir canciones a la lista, solamente puede acceder a las canciones que ya esten establecidas en cierta carpeta escogida.
+
 puede mover las pestañas en la direccion que prefiera de su pantalla desde cualquier parte del reproductor al mantener presionado el click izquierdo (excepto en la parte de la lista), pero no puede modificar el tamaño predeterminado del reproductor.
+
 al cerrar el apartado de opciones tambien cierra el apartado de lista al mismo tiempo.
+
 el cualizador no esta sincronizado con la cancion, sirve como evidencia visual al momento de alguna cancion sea reproducida.
+
 en caso de que su cancion no se reproduzca, pruebe cambiando el volumen con la barra de volumen.
 
